@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/79
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21934#The-Gold-Of-Fairnilee
 gutenberg_issued: '2007-06-25'
 gutenberg_type: Text
 identifiers:
